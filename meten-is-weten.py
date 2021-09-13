@@ -12,3 +12,8 @@ elif a < b:
 
 
 
+else:
+    print(str('a is gelijk aan b'))
+
+    print('Het minimum is: ' +str (min))
+    print('Het maximum is: ' +str (max))
